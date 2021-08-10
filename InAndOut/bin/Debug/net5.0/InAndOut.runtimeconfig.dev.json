@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\WeirdCoder\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\WeirdCoder\\.nuget\\packages"
+    ]
+  }
+}
